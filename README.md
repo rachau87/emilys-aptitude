@@ -5,7 +5,7 @@ iterm: https://iterm2.com/
 
 vscode: https://code.visualstudio.com/Download
 
-Homebrew: this is installed using iterm. Homebrew is the defauly package manager for MAC.
+Homebrew: this is installed using iterm. Homebrew is the default package manager for MAC.
 ```
 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
@@ -56,5 +56,5 @@ Run:
 npx ts-node src/pitter-patter.ts
 ```
 
-Results should be in Iterm
+Results will be in Iterm
 
