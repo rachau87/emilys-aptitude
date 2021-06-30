@@ -46,7 +46,7 @@ git clone https://github.com/rachau87/emilys-aptitude.git
 * Open the src folder
 * Click on pitter-patter.ts file
 
-### test your work 
+### Test your work 
 Open Iterm, make sure you are in the emilys-aptitude folder
 
 Run:
