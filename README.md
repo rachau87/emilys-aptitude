@@ -27,19 +27,15 @@ Basic git commands
 ### Download Project 
 
 * Open Iterm
+* Run the following commands in iterm
 ```
 cd ~/Documents
-```
-* mkdir git
-* cd git
-* clone repo
-
-```
+mkdir git
+cd git
 git clone https://github.com/rachau87/emilys-aptitude.git
+cd emilys-aptitude
+npm install
 ```
-
-* cd emilys-aptitude
-* npm install (this installs any libraries that your computer doesn't have)
 
 ### Open Project in vscode 
 * Open vscode
