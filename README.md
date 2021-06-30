@@ -27,7 +27,9 @@ Basic git commands
 ### Download Project 
 
 * Open Iterm
-* cd ~/Documents (~ is a shortcut for your home directory)
+```
+cd ~/Documents
+```
 * mkdir git
 * cd git
 * clone repo
